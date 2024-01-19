@@ -1,3 +1,5 @@
-console.log("hello world");
-console.log('hello world');
-console.log(`este é com template literals`);
+let num = [1,2,3,4,5];
+
+console.log(num[1]);
+console.log(num[3]);
+console.log(num[4]);
