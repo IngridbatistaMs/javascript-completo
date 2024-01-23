@@ -1,3 +1,5 @@
-console.log("hello world");
-console.log('hello world');
-console.log(`este é com template literals`);
+let nomes = ['ingrid', 'demi','selena'];
+let testes = [true, false, true, true];
+
+console.log(nomes.length);
+console.log(testes.length);
